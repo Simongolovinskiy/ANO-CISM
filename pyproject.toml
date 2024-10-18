@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "task-scheduler"
+version = "0.1.0"
+description = ""
+authors = ["wasa <tositrent164@gmail.com>"]
+readme = "README.md"
+packages = [{include = "task_scheduler"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = {extras = ["uvicorn"], version = "^0.112.2"}
+uvicorn = "^0.30.6"
+punq = "^0.7.0"
+pydantic-settings = "^2.4.0"
+alembic = "^1.13.2"
+asyncpg = "^0.29.0"
+psycopg2-binary = "^2.9.9"
+aio-pika = "^9.4.3"
+orjson = "^3.10.7"
+pytest = "^8.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
