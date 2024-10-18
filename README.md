@@ -1,10 +1,10 @@
-![Repository Top Language](https://img.shields.io/github/languages/top/Simongolovinskiy/task-scheduler)
+![Repository Top Language](https://img.shields.io/github/languages/top/Simongolovinskiy/ANO-CISM)
 ![Python version](https://img.shields.io/badge/python-3.10-blue.svg)
-![Github Repository Size](https://img.shields.io/github/repo-size/Simongolovinskiy/task-scheduler)
-![Github Open Issues](https://img.shields.io/github/issues/Simongolovinskiy/task-scheduler)
+![Github Repository Size](https://img.shields.io/github/repo-size/Simongolovinskiy/ANO-CISM)
+![Github Open Issues](https://img.shields.io/github/issues/Simongolovinskiy/ANO-CISM)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/Simongolovinskiy/task-scheduler)
-![GitHub contributors](https://img.shields.io/github/contributors/Simongolovinskiy/task-scheduler)
+![GitHub last commit](https://img.shields.io/github/last-commit/Simongolovinskiy/ANO-CISM)
+![GitHub contributors](https://img.shields.io/github/contributors/Simongolovinskiy/ANO-CISM)
 ![Simply the best](https://img.shields.io/badge/simply-the%20best%20%3B%29-orange)
 
 <img align="right" width="50%" src="images/image.jpg">
